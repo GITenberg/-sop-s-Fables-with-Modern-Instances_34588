@@ -1,0 +1,45 @@
+_repo: -sop-s-Fables-with-Modern-Instances_34588
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Caldecott, Randolph
+    alias: Caldecott, R. (Randolph)
+    birthdate: 1846
+    deathdate: 1886
+    gutenberg_agent_id: '3611'
+    url: http://www.gutenberg.org/2009/agents/3611
+    wikipedia: http://en.wikipedia.org/wiki/Randolph_Caldecott
+  translator:
+    agent_name: Caldecott, Alfred
+    birthdate: 1850
+    deathdate: 1936
+    gutenberg_agent_id: '37110'
+    url: http://www.gutenberg.org/2009/agents/37110
+covers:
+- cover_type: archival
+  image_path: 34588-h/images/i_back_cover.jpg
+creator:
+  author:
+    agent_name: Aesop
+    alias: Æsop
+    gutenberg_agent_id: '18'
+    url: http://www.gutenberg.org/2009/agents/18
+    wikipedia: http://en.wikipedia.org/wiki/Aesop
+description: ''
+gutenberg_issued: '2010-12-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34588'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Aesop''s fables -- Translations into English'
+- !lcsh 'Fables, Greek -- Illustrations'
+- !lcc 'PA'
+- !lcsh 'English wit and humor, Pictorial'
+- !lcsh 'Fables, Greek -- Translations into English'
+- !lcc 'NC'
+title: Some of Æsop's Fables with Modern Instances
+url: http://www.gutenberg.org/ebooks/34588
